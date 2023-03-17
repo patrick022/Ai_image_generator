@@ -1,5 +1,9 @@
 # Ai_image_generator
-image generation using DALL-E 2.0
+image generation app using DALL-E 2.0
+
+Live: [Demo](https://ai-image-generator-amber.vercel.app/)
 
 
-Server using "Render" Hosting
+Deployment: 
+  -Backend: render hosting
+  -Frontend: Vercel
