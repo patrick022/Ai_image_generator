@@ -5,5 +5,19 @@ Live: [Demo](https://ai-image-generator-amber.vercel.app/)
 
 
 Deployment: 
-  -Backend: render hosting
-  -Frontend: Vercel
+  * Backend: render hosting
+  * Frontend: Vercel
+  
+## Frameworks used
+
+### Front-End:
+
+  * React js (vite)
+  * Tailwind css
+  
+### Back-End:
+
+  * Node js
+  * MongoDB (For posting)
+  * Cloudinary (For Images)
+  * Open API
